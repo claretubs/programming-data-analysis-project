@@ -1,1 +1,3 @@
-# programming-data-analysis-project
+# Programming Data Analysis Project
+by Clare Tubridy.
+
