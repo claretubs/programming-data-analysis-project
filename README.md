@@ -28,7 +28,7 @@ The purpose of this project is to simulate a real-world phenomenon by creating a
 - Matplotlib (version 3.8.1)
     - <code>pip install matplotlib</code>
 - Seaborn (version 0.13.0)
-    - - <code>pip install seaborn</code>
+    - <code>pip install seaborn</code>
 
 ### ***Other Information:***
   * Visual Studio Code - version 1.84.1
