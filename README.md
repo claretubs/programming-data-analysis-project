@@ -11,7 +11,7 @@ by Clare Tubridy.
     * [Other Information](#other-information)
 
 ## Purpose and Goals
-The purpose of this project is to simulate a real-world phenomenon by creating a synthesized dataset using Python. The chosen phenomenon should be measurable, and the dataset should consist of at least one hundred data points across a minimum of four different variables. The project focuses on investigating the types of variables, their likely distributions, and their relationships. The phenomenon of interest is the relationship between various factors and the number of baggage complaints in the airline industry.
+The purpose of this project is to simulate a real-world phenomenon by creating a synthesized dataset using Python. The chosen phenomenon should be measurable, and the dataset should consist of at least one hundred data points across a minimum of four different variables. The project focuses on investigating the types of variables, their likely distributions, and their relationships. The phenomenon of interest is the relationship between various factors and the number of baggage complaints in the airline industry. The variables that will be focused on in this project are *Number of Baggage Complaints*, *Number of Scheduled Flights*, *Number of Cancelled Flights*, and *Number of Passengers Enplaned*.
 
 ## Technical Information
 ### ***Language:***
